@@ -198,6 +198,8 @@ because actionscript is very similar to javascript. you can definitely take away
 * [Legend of Zelda - Game Boy emulation](http://grantgalitz.org/get_the_hell_out/LegendOfZelda_Links_Awakening/)
 * [Treasure Arena](http://www.treasurearena.com/) - Zelda like Battle Arena
 * [Command & Conquer Game](http://www.adityaravishankar.com/projects/games/command-and-conquer/) / [Command & Conquer Source](https://github.com/adityaravishankar/command-and-conquer) - Command & Conquer clone
+* [Shoot The Rocks](https://arcade.ly/games/asteroids/) - Asteroids/Asteroids Deluxe clone
+* [Star Citadel](https://arcade.ly/games/starcastle/) - Star Castle clone
 * [Top 20 HTML5 Games](http://www.netmagazine.com/features/top-20-html5-games)
 * [Gaming Mozillalabs](https://gaming.mozillalabs.com/)
 
